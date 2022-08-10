@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning sofware dev @ NJIT
 
 <div id="header" align="center">
-  <img src="https://young.scot/media/1513/working_information_digtialcareermythbustersgif_001.jpg" width="50"/>
+  <img src="https://young.scot/media/1513/working_information_digtialcareermythbustersgif_001.jpg">
  </div>
 
 <div id="badges">
