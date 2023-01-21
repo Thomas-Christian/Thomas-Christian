@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://young.scot/media/1513/working_information_digtialcareermythbustersgif_001.jpg" width="300"/>
+  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="300"/>
  </div>
  
  ---
