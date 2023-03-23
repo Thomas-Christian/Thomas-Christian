@@ -5,7 +5,7 @@
  ---
 
 ### :ok_man: About Me :
-- :open_book: NJ Based Full Stack Developer (In Training)
+- :open_book: Full Stack Developer (In Training)
 - :eyes: Interested in Video Games, Coding, and Crypto
 
 ---
