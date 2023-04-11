@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="300"/>
+  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="400"/>
  </div>
  
  ---
 
 ### :ok_man: About Me :
-- :open_book: Full Stack Developer (In Training)
-- :eyes: Interested in Video Games, Coding, and Crypto
+- Full Stack Developer
+- Loves: Video Games, Coding, Traveling and Crypto
 
 ---
 
