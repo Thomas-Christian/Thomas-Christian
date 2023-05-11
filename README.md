@@ -6,7 +6,7 @@
 
 ### :ok_man: About Me :
 - Full Stack Developer
-- Loves: Video Games, Coding, Traveling and Crypto
+- Loves: Video Games, Coding, and Traveling
 
 ---
 
