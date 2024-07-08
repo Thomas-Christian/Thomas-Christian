@@ -5,8 +5,8 @@
 ---
 
 ### 👨‍💻 About Me :
-- **Bachelor of Science in Computer Science**
-- **Loves**: Video Games, Coding, and Traveling
+- Bachelor of Science in Computer Science
+- Loves: Video Games, Coding, and Traveling
 
 ---
 
