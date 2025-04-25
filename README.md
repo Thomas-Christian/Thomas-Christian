@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://thomas-christian.github.io/"> 
+    <img src="https://miro.medium.com/v2/resize:fit:795/0*gRd1qFMBYVjZUQQ3.png" alt="GitHub Pages"/>
   </a>
 </div>
 
