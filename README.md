@@ -30,10 +30,10 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/thomas-christian-98711a164/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="200" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="100" alt="LinkedIn Badge"/>
   </a>
   <a href="https://thomas-christian.github.io/"> 
-    <img src="https://miro.medium.com/v2/resize:fit:795/0*gRd1qFMBYVjZUQQ3.png"  width="200" alt="GitHub Pages"/>
+    <img src="https://miro.medium.com/v2/resize:fit:795/0*gRd1qFMBYVjZUQQ3.png"  width="100" alt="GitHub Pages"/>
   </a>
 </div>
 
